@@ -3,3 +3,4 @@ using System;
 
 Console.WriteLine("Яковлєва Аріадна");
 Console.WriteLine("3-027");
+Console.WriteLine("Привіт, GitHub!");

@@ -12,3 +12,4 @@ C:\Users\ARIADNA\MyFirstGitProject\obj\Debug\net9.0\refint\MyFirstGitProject.dll
 C:\Users\ARIADNA\MyFirstGitProject\obj\Debug\net9.0\MyFirstGitProject.pdb
 C:\Users\ARIADNA\MyFirstGitProject\obj\Debug\net9.0\MyFirstGitProject.genruntimeconfig.cache
 C:\Users\ARIADNA\MyFirstGitProject\obj\Debug\net9.0\ref\MyFirstGitProject.dll
+C:\Users\ARIADNA\MyFirstGitProject\obj\Debug\net9.0\MyFirstGitProject.sourcelink.json
